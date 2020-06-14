@@ -1,0 +1,56 @@
+fieldset{
+	background-color: green;
+
+
+
+	
+	width: 50%;
+	margin-left: 30%;
+   
+    
+
+	
+	
+}
+p{
+
+	color: white;
+}
+
+td{
+
+	color: white;
+}
+h3{
+	color: white;
+}
+th{
+
+	color: white;
+}
+h2{
+	color:white;
+}
+h1{
+	color:blue;
+	
+	margin-left:40%; 
+
+}
+
+
+img{
+	margin-left: 40%;
+
+}
+#eraj{
+
+	color:purple;
+	text-align: center;
+
+}
+
+ul,li,a{
+	text-align: center;
+
+}
